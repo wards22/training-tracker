@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/training-tracker/static/css/main.8fd6b8ba.css",
+    "main.js": "/training-tracker/static/js/main.3437e168.js",
+    "static/js/453.7379a2f8.chunk.js": "/training-tracker/static/js/453.7379a2f8.chunk.js",
+    "index.html": "/training-tracker/index.html",
+    "main.8fd6b8ba.css.map": "/training-tracker/static/css/main.8fd6b8ba.css.map",
+    "main.3437e168.js.map": "/training-tracker/static/js/main.3437e168.js.map",
+    "453.7379a2f8.chunk.js.map": "/training-tracker/static/js/453.7379a2f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fd6b8ba.css",
+    "static/js/main.3437e168.js"
+  ]
+}
